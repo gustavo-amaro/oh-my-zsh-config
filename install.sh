@@ -1,0 +1,2 @@
+./ohMyZsh.sh
+./postInstall.sh
